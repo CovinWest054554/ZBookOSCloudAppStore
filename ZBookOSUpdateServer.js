@@ -1,7 +1,7 @@
 (function(Scratch) {
   "use strict";
 
-  const UPDATE_URL = "https://covinwest054554.github.io/ZBookOSCloudAppStore/store.json"; // 注意：实际地址应该是更新服务器的JSON，但用户已经将store.json改为更新服务器内容，所以用同一个URL
+  const UPDATE_URL = "https://colvinwest054554.github.io/ZBookOSCloudAppStore/store.json"; // 注意：实际地址应该是更新服务器的JSON，但用户已经将store.json改为更新服务器内容，所以用同一个URL
 
   class ZBookUpdate {
     constructor() {
