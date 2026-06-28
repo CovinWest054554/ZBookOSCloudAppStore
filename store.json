@@ -1,23 +1,94 @@
 {
   "meta": {
-    "store_version": "1.0.0",
-    "updated": "2026-06-28",
+    "server_name": "ZBookOS Update Server",
     "maintainer": "ZBookZ书",
-    "project": "ZBookOSCloudStore"
+    "updated": "2026-06-28",
+    "current_latest": "3.0"
   },
-  "apps": [
-    {
-      "id": "example-app",
-      "name": "示例应用名称",
-      "author": "你的名字",
-      "version": "1.0.0",
-      "type": "tw-project",
-      "tags": ["tag1", "tag2"],
-      "icon": "https://你的域名/图标.svg",
-      "desc": "简短描述，支持中文，例如：一个很棒的应用",
-      "source": "链接",
-      "license": "GPLv3",
-      "min_zbook": "3.0"
+  "products": {
+    "digital": {
+      "name": "ZBookOS 数字版",
+      "description": "ZBookOS 主线版本（基于TurboWarp / AstraEditor）",
+      "license": "GNU GPL v3",
+      "versions": [
+        {
+          "version": "3.0",
+          "status": "planned",
+          "release_date": "",
+          "changelog": "尚未发布",
+          "blog_post": "",
+          "download_url": ""
+        },
+        {
+          "version": "3.0 Beta",
+          "status": "beta",
+          "release_date": "2026-05-01",
+          "changelog": "添加ZBookOS商店 / 移除/冻结系统和/ChatGPT / 全面更新平台至AstraEditor / 沉浸式启动 / 文件二进制加密 / 乐器功能转正 / 登录密码错误无法启动 / Scratch作品识别（中国大陆受限）",
+          "blog_post": "https://zbook.infinityfreeapp.com/blog/2026/05/01/zbookos-3-0-beta-%e6%b2%89%e6%b5%b8%e5%bc%8f%e6%9b%b4%e6%96%b0%e5%8f%8azbookos-auto-edition%e7%9a%84%e5%bc%80%e6%ba%90/",
+          "download_url": "https://pan.huang1111.cn/s/NkG5AI1（密码私信B站UID获取）"
+        },
+        {
+          "version": "2.9",
+          "status": "stable",
+          "release_date": "2026-04-26",
+          "changelog": "新增/相机命令 / 绿旗启动自动关闭摄像头 / 早期版本丢失通报",
+          "blog_post": "https://zbook.infinityfreeapp.com/blog/2026/04/26/zbookos-2-9-%e7%9b%b8%e6%9c%ba%e6%9b%b4%e6%96%b0/",
+          "download_url": "https://pan.huang1111.cn/s/by2adUY（密码私信B站UID获取）"
+        },
+        {
+          "version": "2.81",
+          "status": "stable",
+          "release_date": "2025-12-31",
+          "changelog": "小修小补 / 移除无法运行的照片浏览功能 / 网站服务器性能优化说明",
+          "blog_post": "https://zbook.infinityfreeapp.com/blog/2025/12/31/zbookos-2-81-%e5%b0%8f%e4%bf%ae%e5%b0%8f%e8%a1%a5%e6%9b%b4%e6%96%b0/",
+          "download_url": "私信B站UID获取"
+        }
+      ]
+    },
+    "home": {
+      "name": "ZBookOS Home Edition",
+      "description": "家庭精简版，积木数量从900+缩减至300+",
+      "license": "GNU GPL v3",
+      "versions": [
+        {
+          "version": "Home Basic",
+          "status": "stable",
+          "release_date": "2025-08-18",
+          "changelog": "大幅精简代码体积 / 保留/音乐和/视频Beta等功能",
+          "blog_post": "https://zbook.infinityfreeapp.com/blog/2025/08/18/zbookos-home-edition-%e5%ae%b6%e5%ba%ad%e7%b2%be%e7%ae%80%e7%89%88/",
+          "download_url": "https://pan.huang1111.cn/s/P6BRdTm（密码私信B站UID获取）"
+        }
+      ]
+    },
+    "tiny": {
+      "name": "ZBookOS Tiny Edition",
+      "description": "极致精简版，仅保留基本骨架",
+      "license": "GNU GPL v3",
+      "versions": [
+        {
+          "version": "Tiny",
+          "status": "stable",
+          "release_date": "2025-08-20",
+          "changelog": "代码缩减至最低限度 / 仅保留核心框架",
+          "blog_post": "https://zbook.infinityfreeapp.com/blog/2025/08/20/zbookos-tiny-%e6%9b%b4%e6%96%b0/",
+          "download_url": "https://pan.huang1111.cn/s/MNwMxTx（密码私信B站UID获取）"
+        }
+      ]
+    },
+    "auto": {
+      "name": "ZBookOS Auto Edition",
+      "description": "车机版（已废弃，仅保留方向盘组件）",
+      "license": "MIT",
+      "versions": [
+        {
+          "version": "Auto (作废)",
+          "status": "abandoned",
+          "release_date": "2026-05-01",
+          "changelog": "车机项目停止开发 / 剩余方向盘组件开源",
+          "blog_post": "https://zbook.infinityfreeapp.com/blog/2026/05/01/zbookos-3-0-beta-%e6%b2%89%e6%b5%b8%e5%bc%8f%e6%9b%b4%e6%96%b0%e5%8f%8azbookos-auto-edition%e7%9a%84%e5%bc%80%e6%ba%90/",
+          "download_url": "https://pan.huang1111.cn/s/E7b1Xhb（无密码）"
+        }
+      ]
     }
-  ]
+  }
 }
