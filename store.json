@@ -14,8 +14,8 @@
         {
           "version": "3.0",
           "status": "planned",
-          "release_date": "",
-          "changelog": "尚未发布",
+          "release_date": "2026-06-28",
+          "changelog": "添加ZBookOS商店 / 移除"/冻结系统"和"/ChatGPT" / 全面更新平台至AstraEditor",
           "blog_post": "",
           "download_url": ""
         },
@@ -23,7 +23,7 @@
           "version": "3.0 Beta",
           "status": "beta",
           "release_date": "2026-05-01",
-          "changelog": "添加ZBookOS商店 / 移除/冻结系统和/ChatGPT / 全面更新平台至AstraEditor / 沉浸式启动 / 文件二进制加密 / 乐器功能转正 / 登录密码错误无法启动 / Scratch作品识别（中国大陆受限）",
+          "changelog": "沉浸式启动 / 文件二进制加密 / 乐器功能转正 / 登录密码错误无法启动 / Scratch作品识别（中国大陆受限）",
           "blog_post": "https://zbook.infinityfreeapp.com/blog/2026/05/01/zbookos-3-0-beta-%e6%b2%89%e6%b5%b8%e5%bc%8f%e6%9b%b4%e6%96%b0%e5%8f%8azbookos-auto-edition%e7%9a%84%e5%bc%80%e6%ba%90/",
           "download_url": "https://pan.huang1111.cn/s/NkG5AI1（密码私信B站UID获取）"
         },
@@ -31,7 +31,7 @@
           "version": "2.9",
           "status": "stable",
           "release_date": "2026-04-26",
-          "changelog": "新增/相机命令 / 绿旗启动自动关闭摄像头 / 早期版本丢失通报",
+          "changelog": "新增/相机命令 / 绿旗启动自动关闭摄像头",
           "blog_post": "https://zbook.infinityfreeapp.com/blog/2026/04/26/zbookos-2-9-%e7%9b%b8%e6%9c%ba%e6%9b%b4%e6%96%b0/",
           "download_url": "https://pan.huang1111.cn/s/by2adUY（密码私信B站UID获取）"
         },
@@ -39,7 +39,7 @@
           "version": "2.81",
           "status": "stable",
           "release_date": "2025-12-31",
-          "changelog": "小修小补 / 移除无法运行的照片浏览功能 / 网站服务器性能优化说明",
+          "changelog": "小修小补 / 移除无法运行的照片浏览功能",
           "blog_post": "https://zbook.infinityfreeapp.com/blog/2025/12/31/zbookos-2-81-%e5%b0%8f%e4%bf%ae%e5%b0%8f%e8%a1%a5%e6%9b%b4%e6%96%b0/",
           "download_url": "私信B站UID获取"
         }
@@ -70,7 +70,7 @@
           "status": "stable",
           "release_date": "2025-08-20",
           "changelog": "代码缩减至最低限度 / 仅保留核心框架",
-          "blog_post": "https://zbook.infinityfreeapp.com/blog/2025/08/20/zbookos-tiny-%e6%9b%b4%e6%96%b0/",
+          "blog_post": "https://zbook.infinityfreeapp.com/blog/2025/08/20/zbookos-tiny-%e5%98%9f%e5%98%9f%e5%93%92%e5%98%9f%e5%98%9f%e5%93%92%e6%9b%b4%e6%96%b0/",
           "download_url": "https://pan.huang1111.cn/s/MNwMxTx（密码私信B站UID获取）"
         }
       ]
