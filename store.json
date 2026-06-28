@@ -13,17 +13,17 @@
       "versions": [
         {
           "version": "3.0",
-          "status": "planned",
-          "release_date": "",
-          "changelog": "尚未发布",
-          "blog_post": "",
-          "download_url": ""
+          "status": "stable",
+          "release_date": "2026-06-28",
+          "changelog": "添加ZBookOS商店 / 移除冻结系统和ChatGPT功能 / 全面更新平台至AstraEditor",
+          "blog_post": "https://zbook.infinityfreeapp.com/blog/2026/06/28/zbookos-3-0-for-astraeditor-os%e5%95%86%e5%ba%97%e6%9b%b4%e6%96%b0/",
+          "download_url": "https://pan.huang1111.cn/s/8Q8w8hQ"
         },
         {
           "version": "3.0 Beta",
-          "status": "beta",
+          "status": "stable",
           "release_date": "2026-05-01",
-          "changelog": "添加ZBookOS商店 / 移除/冻结系统和/ChatGPT / 全面更新平台至AstraEditor / 沉浸式启动 / 文件二进制加密 / 乐器功能转正 / 登录密码错误无法启动 / Scratch作品识别（中国大陆受限）",
+          "changelog": "沉浸式启动 / 文件二进制加密 / 乐器功能转正 / 登录密码错误无法启动 / Scratch作品识别（中国大陆受限）",
           "blog_post": "https://zbook.infinityfreeapp.com/blog/2026/05/01/zbookos-3-0-beta-%e6%b2%89%e6%b5%b8%e5%bc%8f%e6%9b%b4%e6%96%b0%e5%8f%8azbookos-auto-edition%e7%9a%84%e5%bc%80%e6%ba%90/",
           "download_url": "https://pan.huang1111.cn/s/NkG5AI1（密码私信B站UID获取）"
         },
